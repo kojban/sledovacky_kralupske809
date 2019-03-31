@@ -1,32 +1,32 @@
 9707: : Louny;10:39, Kralupy nad Vltavou;12:08
-19696sv: X: Kralupy nad Vltavou;12:36, Roudnice nad Labem;13:09
+119696sv: X: Kralupy nad Vltavou;12:36, Roudnice nad Labem;13:09
 19634: X: Roudnice nad Labem;13:13, Straškov;13:35
-19633: X: Straškov;13:37, Roudnice nad Labem;14:03
-19612: X: Roudnice nad Labem;14:07, Bříza obec;14:34
-19617: X: Bříza obec;14:38, Roudnice nad Labem;15:08
-19614: X: Roudnice nad Labem;15:11, Bříza obec;15:37
-19621: X: Bříza obec;15:40, Roudnice nad Labem;16:09
-19616: X: Roudnice nad Labem;16:15, Bříza obec;16:42
-19641: X: Bříza obec;16:45, Roudnice nad Labem město;17:07
-19650: X: Roudnice nad Labem město;17:10, Straškov;17:26
-19635: X: Straškov;17:36, Roudnice nad Labem;18:02
-19618: X: Roudnice nad Labem;18:15, Bříza obec;18:42
-19623: X: Bříza obec;19:10, Roudnice nad Labem;19:40
-19636: X: Roudnice nad Labem;19:55, Straškov;20:18
 20316: 25: Kralupy nad Vltavou;13:26, Velvary;13:45
+19633: X: Straškov;13:37, Roudnice nad Labem;14:03
 20315: 25: Velvary;13:47, Kralupy nad Vltavou;14:05
+19612: X: Roudnice nad Labem;14:07, Bříza obec;14:34
 20318: 25: Kralupy nad Vltavou;14:26, Velvary;14:45
+19617: X: Bříza obec;14:38, Roudnice nad Labem;15:08
 20317: 25: Velvary;14:47, Kralupy nad Vltavou;15:05
+19614: X: Roudnice nad Labem;15:11, Bříza obec;15:37
 20340: 25: Kralupy nad Vltavou;15:26, Velvary;15:45
+19621: X: Bříza obec;15:40, Roudnice nad Labem;16:09
 20319: 25: Velvary;15:47, Kralupy nad Vltavou;16:05
+19616: X: Roudnice nad Labem;16:15, Bříza obec;16:42
 20320: 25: Kralupy nad Vltavou;16:26, Velvary;16:45
+19641: X: Bříza obec;16:45, Roudnice nad Labem město;17:07
 20321: 25: Velvary;16:47, Kralupy nad Vltavou;17:05
+19650: X: Roudnice nad Labem město;17:10, Straškov;17:26
 20322: 25: Kralupy nad Vltavou;17:26, Velvary;17:45
+19635: X: Straškov;17:36, Roudnice nad Labem;18:02
 20323: 25: Velvary;17:47, Kralupy nad Vltavou;18:05
+19618: X: Roudnice nad Labem;18:15, Bříza obec;18:42
 20324: 25: Kralupy nad Vltavou;18:26, Velvary;18:45
 20325: 25: Velvary;18:47, Kralupy nad Vltavou;19:05
+19623: X: Bříza obec;19:10, Roudnice nad Labem;19:40
 20326: 25: Kralupy nad Vltavou;19:23, Velvary;19:42
 20327: 25: Velvary;19:46, Kralupy nad Vltavou;20:04
+19636: X: Roudnice nad Labem;19:55, Straškov;20:18
 20330: 25: Kralupy nad Vltavou;21:23, Velvary;21:42
 20331: 25: Velvary;21:46, Kralupy nad Vltavou;22:04
 20332: 25: Kralupy nad Vltavou;22:19, Velvary;22:38
@@ -41,7 +41,7 @@
 12315: X: Straškov;6:51, Vraňany;7:15
 12340: X: Vraňany;7:20, Horní Beřkovice;7:25
 12341: X: Horní Beřkovice;8:32, Vraňany;8:37
-12341: X: Horní Beřkovice;8:32, Vraňany;8:37
+12342: X: Vraňany;8:44, Horní Beřkovice;8:49
 12301: X: Horní Beřkovice;9:08, Vraňany;9:13
 112301sv: X: Vraňany;9:22, Kralupy nad Vltavou;9:34
 112314sv: X: Kralupy nad Vltavou;10:14, Vraňany;10:26
@@ -72,29 +72,29 @@
 
 19503: : Kralupy nad Vltavou;5:02, Neratovice;5:26
 19405: X: Neratovice;5:33, Čelákovice;6:17
+19405| Ner - Bra|Neratovice - Brandýs nad Labem: 25: Neratovice;5:33, Brandýs nad Labem;5:59
+19402| Bra - Ner|Brandýs nad Labem - Neratovice: 25: Brandýs nad Labem;6:02, Neratovice;6:27
 19404: X: Čelákovice;6:37, Neratovice;7:27
-19405|Ner: 25: Neratovice;5:33, Brandýs nad Labem;5:59
-19402|Ner: 25: Brandýs nad Labem;6:02, Neratovice;6:27
 19409: : Neratovice;7:33, Čelákovice;8:17
 19408: : Čelákovice;8:37, Brandýs nad Labem;8:55
 19411: : Brandýs nad Labem;9:00, Čelákovice;9:17
 19410: : Čelákovice;9:37, Neratovice;10:27
 19417: : Neratovice;11:33, Čelákovice;12:17
 19416: X: Čelákovice;12:37, Neratovice;13:27
-19421: X: Neratovice;13:33, Čelákovice;14:17
-19420: X: Čelákovice;14:37, Neratovice;15:27
 19416: 25: Čelákovice;12:37, Brandýs nad Labem;12:55
 19419: 25: Brandýs nad Labem;13:00, Čelákovice;13:17
+19421: X: Neratovice;13:33, Čelákovice;14:17
 19418: 25: Čelákovice;13:37, Neratovice;14:27
+19420: X: Čelákovice;14:37, Neratovice;15:27
 19425: : Neratovice;15:33, Čelákovice;16:17
 19424: X: Čelákovice;16:37, Neratovice;17:27
-19429: X: Neratovice;17:33, Čelákovice;18:17
-19428: X: Čelákovice;18:37, Brandýs nad Labem;18:55
-19433: X: Brandýs nad Labem;20:00, Čelákovice;20:17
 19424: 25: Čelákovice;16:37, Brandýs nad Labem;16:55
 19427: 25: Brandýs nad Labem;17:00, Čelákovice;17:17
+19429: X: Neratovice;17:33, Čelákovice;18:17
+19428: X: Čelákovice;18:37, Brandýs nad Labem;18:55
 19426: 25: Čelákovice;17:37, Neratovice;18:27
 19433: 25: Neratovice;19:33, Čelákovice;20:17
+19433: X: Brandýs nad Labem;20:00, Čelákovice;20:17
 19432: : Čelákovice;20:37, Brandýs nad Labem;20:55
 19435: 25: Brandýs nad Labem;21:00, Čelákovice;21:17
 19434: 25: Čelákovice;21:37, Brandýs nad Labem;21:55
