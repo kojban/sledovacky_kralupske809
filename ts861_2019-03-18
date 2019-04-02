@@ -105,20 +105,20 @@
 19400: X: Čelákovice;4:37, Neratovice;5:27
 19400: 25: Brandýs nad Labem;5:02, Neratovice;5:27
 19502: : Neratovice;6:00, Kralupy nad Vltavou;6:22
-19505: X: Kralupy nad Vltavou;6:22, Neratovice;6:53
-19504: X: Neratovice;6:59, Kralupy nad Vltavou;7:30
+19505: X: Kralupy nad Vltavou;6:29, Neratovice;6:52
+9724: 25: Kralupy nad Vltavou;6:53, Slaný;7:34
+19504: X: Neratovice;6:59, Kralupy nad Vltavou;7:22
 20310: X: Kralupy nad Vltavou;7:54, Velvary;8:13
 20309: X: Velvary;8:16, Kralupy nad Vltavou;8:34
+9731: 25: Slaný;9:37, Kralupy nad Vltavou;10:08
 9728: X: Kralupy nad Vltavou;9:51, Slaný;10:21
+9706: 25: Kralupy nad Vltavou;11:51, Louny;13:19
 9733: X: Slaný;12:37, Kralupy nad Vltavou;13:08
 9710: X: Kralupy nad Vltavou;13:51, Louny;15:18
+9713: 25: Louny;14:39, Kralupy nad Vltavou;16:09
 9715: X: Louny;16:39, Kralupy nad Vltavou;18:09
 9734: X: Kralupy nad Vltavou;18:29, Slaný;19:04
 9743: X: Slaný;19:07, Kralupy nad Vltavou;19:36
-9724: 25: Kralupy nad Vltavou;6:53, Slaný;7:34
-9731: 25: Slaný;9:37, Kralupy nad Vltavou;10:08
-9706: 25: Kralupy nad Vltavou;11:51, Louny;13:19
-9713: 25: Louny;14:39, Kralupy nad Vltavou;16:09
 9718: : Kralupy nad Vltavou;19:51, Peruc;20:51
 9719: : Peruc;20:54, Kralupy nad Vltavou;21:53
 19529: XT: Kralupy nad Vltavou;22:28, Všetaty;23:00
@@ -129,12 +129,12 @@
 9700: X: Kralupy nad Vltavou;5:49, Louny;7:19
 9702: 25: Kralupy nad Vltavou;5:53, Louny;7:19
 9709: : Louny;12:39, Kralupy nad Vltavou;14:09
-19519: X: Kralupy nad Vltavou;14:23, Neratovice;14:54
-19518: X: Neratovice;15:00, Kralupy nad Vltavou;15:31
-19521: : Kralupy nad Vltavou;15:23, Neratovice;15:54
-19520: : Neratovice;16:00, Kralupy nad Vltavou;16:31
-19523: X: Kralupy nad Vltavou;16:23, Neratovice;16:54
-19522: X: Neratovice;17:00, Kralupy nad Vltavou;17:31
+19519: X: Kralupy nad Vltavou;14:29, Neratovice;14:52
+19518: X: Neratovice;15:00, Kralupy nad Vltavou;15:22
+19521: : Kralupy nad Vltavou;15:29, Neratovice;15:52
+19520: : Neratovice;16:00, Kralupy nad Vltavou;16:22
+19523: X: Kralupy nad Vltavou;16:29, Neratovice;16:52
+19522: X: Neratovice;17:00, Kralupy nad Vltavou;17:22
 19525: : Kralupy nad Vltavou;17:29, Neratovice;17:52
 19524: : Neratovice;18:00, Kralupy nad Vltavou;18:22
 19527: : Kralupy nad Vltavou;19:29, Neratovice;19:52
@@ -147,54 +147,54 @@
 9670: X: Kralupy nad Vltavou;4:42, Lužec nad Vltavou;5:05
 12351: X: Lužec nad Vltavou;5:08, Vraňany;5:14
 12350: X: Vraňany;5:42, Lužec nad Vltavou;5:48
+9723: 25: Slaný;5:57, Kralupy nad Vltavou;6:29
 12353: X: Lužec nad Vltavou;6:07, Vraňany;6:13
 12352: X: Vraňany;6:21, Lužec nad Vltavou;6:27
 9671: X: Lužec nad Vltavou;6:29, Kralupy nad Vltavou;6:52
-19507: X: Kralupy nad Vltavou;7:02, Neratovice;7:33
-19506: X: Neratovice;7:20, Kralupy nad Vltavou;7:51
-9723: 25: Slaný;5:57, Kralupy nad Vltavou;6:29
 20308: 25: Kralupy nad Vltavou;6:49, Velvary;7:08
-9771: 25: Velvary;7:12, Kralupy nad Vltavou;7:30
+19507: X: Kralupy nad Vltavou;7:02, Neratovice;7:25
+9771: 25: Velvary;7:12, Neratovice;7:53
+19506: X: Neratovice;7:27, Kralupy nad Vltavou;7:51
 19508: 25: Neratovice;8:01, Kralupy nad Vltavou;8:32
-19511: : Kralupy nad Vltavou;8:58, Neratovice;9:29
+19511: : Kralupy nad Vltavou;9:04, Neratovice;9:27
 19413: : Neratovice;9:33, Čelákovice;10:17
 19412: : Čelákovice;10:37, Brandýs nad Labem;10:55
 19415: : Brandýs nad Labem;11:00, Čelákovice;11:17
-19414: X: Čelákovice;11:37, Neratovice;12:27
+19414: : Čelákovice;11:37, Neratovice;12:27
 19419: X: Neratovice;12:33, Čelákovice;13:17
+19421: 25: Neratovice;13:33, Čelákovice;14:17
 19418: X: Čelákovice;13:37, Neratovice;14:27
 19423: X: Neratovice;14:33, Čelákovice;15:17
-19427: X: Neratovice;16:33, Čelákovice;17:17
-19426: X: Čelákovice;17:37, Neratovice;18:27
-19431: X: Neratovice;18:33, Čelákovice;19:17
-19421: 25: Neratovice;13:33, Čelákovice;14:17
 19420: 25: Čelákovice;14:37, Brandýs nad Labem;14:55
 19423: 25: Brandýs nad Labem;15:00, Čelákovice;15:17
-19422: 25: Čelákovice;15:37, Neratovice;16:27
+19422: : Čelákovice;15:37, Neratovice;16:27
+19427: X: Neratovice;16:33, Čelákovice;17:17
 19429: 25: Neratovice;17:33, Čelákovice;18:17
+19426: X: Čelákovice;17:37, Neratovice;18:27
+19431: X: Neratovice;18:33, Čelákovice;19:17
 19428: 25: Čelákovice;18:37, Brandýs nad Labem;18:55
 19431: 25: Brandýs nad Labem;19:00, Čelákovice;19:17
 19430: : Čelákovice;19:37, Neratovice;20:27
 19435: X: Neratovice;20:33, Čelákovice;21:17
-19434: X: Čelákovice;21:37, Neratovice;22:27
-19439: X: Neratovice;22:33, Čelákovice;23:17
 19441: 25: Neratovice;21:33, Brandýs nad Labem;21:59
+19434: X: Čelákovice;21:37, Neratovice;22:27
 19437: 25: Brandýs nad Labem;22:00, Čelákovice;22:17
+19439: X: Neratovice;22:33, Čelákovice;23:17
 19436: 25: Čelákovice;22:37, Brandýs nad Labem;22:55
 19439: 25: Brandýs nad Labem;23:00, Čelákovice;23:17
-19438: : Čelákovice;23:44, Brandýs nad Labem;0:02
+19438: : Čelákovice;23:55, Brandýs nad Labem;0:13
 
 19403: : Brandýs nad Labem;4:58, Čelákovice;5:15
 19402: X: Čelákovice;5:37, Neratovice;6:27
+119402| Čel - Bra|Čelákovice - Brandýs nad Labem: 25: Čelákovice;5:37, Brandýs nad Labem;5:55
+119405| Bra - Čel|Brandýs nad Labem - Čelákovice: 25: Brandýs nad Labem;6:00, Čelákovice;6:17
 19407: X: Neratovice;6:33, Čelákovice;7:17
-119402|Čel: 25: Čelákovice;5:37, Brandýs nad Labem;5:55
-119405|Čel: 25: Brandýs nad Labem;6:00, Čelákovice;6:17
 19404: 25: Čelákovice;6:37, Brandýs nad Labem;6:55
 19407: 25: Brandýs nad Labem;7:00, Čelákovice;7:17
 19406: : Čelákovice;7:37, Neratovice;8:27
-19510: : Neratovice;10:00, Kralupy nad Vltavou;10:31
-19513: : Kralupy nad Vltavou;11:23, Neratovice;11:54
-19512: : Neratovice;12:00, Kralupy nad Vltavou;12:31
+19510: : Neratovice;10:00, Kralupy nad Vltavou;10:22
+19513: : Kralupy nad Vltavou;11:29, Neratovice;11:52
+19512: : Neratovice;12:00, Kralupy nad Vltavou;12:22
 9708: X: Kralupy nad Vltavou;12:51, Klobuky v Čechách;13:53
 9711: X: Klobuky v Čechách;14:05, Kralupy nad Vltavou;15:09
 9714: : Kralupy nad Vltavou;15:51, Louny;17:20
@@ -203,7 +203,7 @@
 20329: : Velvary;20:50, Kralupy nad Vltavou;21:08
 9740: : Kralupy nad Vltavou;21:35, Slaný;22:07
 9745: : Slaný;22:39, Kralupy nad Vltavou;23:08
-9742: z25: Kralupy nad Vltavou;23:25, Slaný;23:55
+9742: zX: Kralupy nad Vltavou;23:25, Slaný;23:55
 
 9750: X: Slaný;4:21, Louny;5:13
 9705: X: Louny;6:39, Kralupy nad Vltavou;8:08
@@ -229,19 +229,19 @@
 9720: X: Kralupy nad Vltavou;4:49, Slaný;5:20
 9723: X: Slaný;5:57, Kralupy nad Vltavou;6:29
 9724: X: Kralupy nad Vltavou;6:53, Slaný;7:34
-9727: X: Slaný;7:56, Kralupy nad Vltavou;8:28
-9706: X: Kralupy nad Vltavou;11:51, Louny;13:19
-9713: X: Louny;14:39, Kralupy nad Vltavou;16:09
-9730: X: Kralupy nad Vltavou;16:29, Slaný;16:59
-9737: X: Slaný;17:04, Kralupy nad Vltavou;17:37
 9726: 25: Kralupy nad Vltavou;7:51, Slaný;8:27
+9727: X: Slaný;7:56, Kralupy nad Vltavou;8:28
 9729: 25: Slaný;8:37, Kralupy nad Vltavou;9:08
 9728: 25: Kralupy nad Vltavou;9:51, Slaný;10:21
+9706: X: Kralupy nad Vltavou;11:51, Louny;13:19
 9733: 25: Slaný;12:37, Kralupy nad Vltavou;13:08
-19517: 25: Kralupy nad Vltavou;13:23, Neratovice;13:54
-19516: 25: Neratovice;14:00, Kralupy nad Vltavou;14:31
+19517: 25: Kralupy nad Vltavou;13:29, Neratovice;13:52
+19516: 25: Neratovice;14:00, Kralupy nad Vltavou;14:22
+9713: X: Louny;14:39, Kralupy nad Vltavou;16:09
 9712: 25: Kralupy nad Vltavou;14:51, Slaný;15:25
+9730: X: Kralupy nad Vltavou;16:29, Slaný;16:59
 9735: 25: Slaný;16:30, Kralupy nad Vltavou;17:09
+9737: X: Slaný;17:04, Kralupy nad Vltavou;17:37
 9716: : Kralupy nad Vltavou;17:51, Louny;19:17
 
 
